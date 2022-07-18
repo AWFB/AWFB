@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Antony</h1>
 <h3 align="center">Biochemist turned Full Stack developer, Liverpool, England</h3>
 
-- 🔭 I’m currently working on **AssayDB**
-
-- 👯 I’m looking to collaborate on **Full Stack web projects**
+- 🔭 I’m currently working on **AssayDB** - an assay database website for use by external laboratories to find specialist tests.
 
 - 👨‍💻 All of my projects are available at [https://github.com/AWFB](https://github.com/AWFB)
 
 - 📫 How to reach me **antonywb@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/antonyb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/antonyb/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/awfb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awfb/" height="30" width="40" /></a>
