@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antony</h1>
+<h1 align="center">Hi, I'm Antony</h1>
 <h3 align="center">Biochemist turned Full Stack developer, Liverpool, England</h3>
 
 - 🔭 I’m currently working on **AssayDB** - an assay database website for use by external laboratories to find specialist tests.
