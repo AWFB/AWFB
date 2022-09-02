@@ -5,8 +5,8 @@
 at [https://github.com/AWFB](https://github.com/AWFB) - 📫 How to reach me
 **antonywb@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p align="center">
   <a href="https://twitter.com/https://twitter.com/antonyb/" target="blank"
     ><img
       align="center"
