@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AWFB](https://github.com/AWFB)
 
-- 📫 How to reach me **antonywb@gmail.com**
+- 📫 Contact: **antonywb@gmail.com**
 
 
 <p align="left">
