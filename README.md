@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Antony</h1>
-<h3 align="center">Clinical Biochemist turned Software Engineer, Liverpool, England</h3>
+<h3 align="center">Clinical Biochemist turned Software Engineer, North West, England</h3>
 
 <p align="center">
   https://awfb.me/
